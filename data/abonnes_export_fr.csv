@@ -1,0 +1,501 @@
+id_client;date_activation;departement;zone;age;type_offre;appels_min;data_mo;sms;depense_fcfa;nb_recharges;mobile_money;reclamations_3m;note_reseau;variation_conso_pct;resilie;motif_resiliation
+NT105452;2022-03-03;Littoral;urbaine;22,0;prépayé;94,8;1083,0;22;2920;4;non;2;3,0;-24,4;non;
+NT100521;02/11/2023;Zou;rurale;;prépayé;245,1;925,0;20;3370;4;oui;0;3,0;0,5;non;
+NT100570;2024-05-02; Atlantique;rurale;30,0;prépayé;55,1;2098,0;100;3200;9;non;0;3,0;13,0;non;
+NT105197;2023-12-02;Borgou;rurale;25,0;Prépayé;110,0;11819,0;122;12670;12;1;1;3,0;10,4;non;
+NT101587;2018-11-01; Zou;urbaine;24,0;prépayé;97,4;3261,0;13;5410;10;Non;1;3,0;-19,8;non;
+NT103824;2024-03-03;Donga;rurale;42,0;postpayé;119,1;862,0;11;5320;1;non;1;3,0;24,8;non;
+NT101488;2023-01-01;Ouémé;rurale;39,0;prépayé;132,2;26125,0;7;23940;20;oui;0;4,0;27,0;non;
+NT100270;03-03-2024;Mono;rurale;40,0;prépayé;613,4;0,0;8;7650;18;non;0;2,0;-9,7;oui;déménagement
+NT100105;2021-07-03;Atlantique;rurale;;prépayé;371,7;384,0;37;6200;7;non;0;3,0;17,1;non;
+NT105391;2020-01-02;;urbaine;46,0;postpayé;83,5;5916,0;78;9400;1;non;0;4,0;12,0;non;
+NT100542;03/05/2023;Atacora;urbaine;37,0;postpayé;;2030,0;208;11940;1;non;2;4,0;0,3;non;
+NT105559;2019-06-03;Plateau;rurale;29,0;prépayé;293,4;128,0;10;3810;8;non;0;1,0;-0,5;non;
+NT104202;2022-04-02;Atlantique;urbaine;18,0;prépayé;129,9;8053760,0;57;12010;17;oui;0;2,0;-1,0;non;
+NT102801;02/11/2022;Littoral;urbaine;37,0;postpayé;86,5;2880,0;37;9500;1;N;2;3,0;-10,2;non;
+NT104026;2023-12-02;Atacora;urbaine;31,0;postpayé;148,9;8633,0;5;11360;1;oui;2;4,0;-16,4;non;
+NT102613;03/04/2023;Borgou;rurale;18,0;prépayé;155,7;699,0;93;3830;4;oui;0;4,0;-6,2;non;
+NT101296;2023-03-03;Collines;rurale;38,0;postpayé;323,5;1158,0;7;11 080;1;oui;1;2,0;19,6;non;
+NT102049;2022-04-02;;urbaine;30,0;Postpayé;280,1;1599,0;7;9 750 FCFA;1;Oui;0;5,0;-0,5;non;
+NT102242;03/05/2023;COLLINES;urbaine;18,0;prépayé;329,4;1794,0;6;9100;9;oui;0;4,0;18,3;non;
+NT101521;03/04/2023;Atlantique;urbaine;30,0;prépayé;147,1;1605,0;39;4130;8;non;0;;-21,8;oui;réseau
+NT100426;01/02/2020;Littoral;urbaine;47,0;Pré-payé;137,4;938,0;17;2990;3;non;0;3,0;-7,4;non;
+NT105468;03/03/2024;Littoral;urbaine;37,0;prépayé;562,2;874,0;22;8930;10;non;0;5,0;4,6;non;
+NT100427;2023-01-01;;urbaine;42,0;postpayé;254,9;17669,0;53;24880;1;oui;1;2,0;-1,2;non;
+NT102955;02/10/2024;Collines;urbaine;23,0;prépayé;131,8;1558,0;2;2970;8;oui;0;3,0;-48,7;oui;réseau
+NT102589;2021-11-01;Littoral;urbaine;;prépayé;48,4;4234,0;7;4580;8;oui;0;;-6,4;non;
+NT101968;2020-08-02;Alibori;rurale;0,0;prépayé;159,0;1207,0;9;3 920 FCFA;5;1;0;3,0;21,6;non;
+NT103605;01/01/2018;Borgou;urbaine;18,0;Prépayé;219,0;3048,0;10;6020;10;non;1;4,0;0,7;non;
+NT105053;02/08/2022;Zou;rurale;27,0;prépayé;81,6;780,0;8;1900;3;non;0;3,0;24,1;non;
+NT100544;03/04/2023;Ouémé;rurale;33,0;prépayé;70,6;982,0;11;2350;3;oui;0;4,0;31,2;non;
+NT104158;2021-11-01;Littoral;urbaine;21,0;postpayé;568,7;7252,0;60;22630;1;Oui;0;3,0;2,0;non;
+NT101305;2022-08-02;Donga;urbaine;39,0;prépayé;80,5;346,0;72;1560;3;non;0;3,0;2,9;non;
+NT103461;02/11/2022;Atlantique;rurale;21,0;prépayé;43,5;1059,0;68;2 490 FCFA;8;oui;2;4,0;-3,7;non;
+NT104433;01/01/2021;OUÉMÉ;urbaine;30,0;prépayé;548,2;1846,0;24;8 810 FCFA;15;non;1;5,0;-13,3;non;
+NT101442;2023-03-03;Ouémé;rurale;36,0;prépayé;48,8;0,0;10;810;2;oui;0;4,0;-2,3;non;
+NT104191;2024-01-02;Ouémé;urbaine;18,0;prépayé;;718,0;9;1 850 FCFA;5;oui;0;2,0;-45,4;oui;déménagement
+NT101659;2023-10-02;Collines;rurale;31,0;prépayé;24,2;594,0;28;1 290 FCFA;2;non;1;3,0;-1,1;OUI;concurrence
+NT104541;02-12-2023;Ouémé;rurale;38,0;postpayé;56,8;3458,0;5;7390;1;non;1;4,0;12,2;non;
+NT103631;01-02-2023;Collines;rurale;38,0;prépayé;151,3;115,0;32;2420;2;non;0;1,0;-35,7;oui;concurrence
+NT102376;2022-04-02;ZOU;urbaine;28,0;prépayé;53,7;2453,0;16;3800;4;non;0;3,0;-3,2;non;
+NT104237;01-01-2018;Couffo;rurale;48,0;prépayé;165,9;1152,0;5;2 980;4;non;0;3,0;-11,6;non;
+NT102614;2020-01-02;Zou;rurale;28,0;prépayé;180,8;0,0;34;3270;3;non;0;1,0;7,4;non;
+NT100501;2021-09-01;Couffo;urbaine;38,0;prépayé;51,3;2661,0;7;4260;3;oui;0;4,0;10,3;NON;
+NT105657;02/09/2022;Littoral;urbaine;41,0;prépayé;121,3;2121,0;60;3 330 FCFA;2;oui;1;;-40,1;oui;déménagement
+NT100919;2012-09-01;Atacora;rurale;20,0;Prépayé;74,4;4084,0;3;3 790 FCFA;6;Non;0;4,0;5,4;NON;
+NT101748;2024-01-02;ALIBORI;rurale;18,0;prépayé;74,6;211,0;9;1830;1;oui;0;4,0;-21,1;non;
+NT101895;2020-02-01;Zou;urbaine;35,0;postpayé;330,2;1634,0;6;7380;1;non;1;4,0;44,8;non;
+NT105352;01/11/2020;Collines;rurale;41,0;prepaye;73,1;7700,0;22;6630;9;oui;0;5,0;-4,1;non;
+NT100616;2022-07-03;Atlantique;urbaine;43,0;postpayé;210,0;1133,0;3;7990;1;non;1;4,0;1,2;NON;
+NT103193;02/05/2024;Atlantique;rurale;45,0;prépayé;40,3;1818,0;61;3240;1;non;0;3,0;-16,6;oui;réseau
+NT102491;2022-06-02;Collines;rurale;23,0;prépayé;50,8;2094,0;24;3 160 FCFA;6;oui;0;4,0;-30,2;non;
+NT105105;2021-08-02;Donga;rurale;36,0;postpayé;180,5;778,0;18;7 280;1;non;2;3,0;-3,1;non;
+NT102274;2023-06-03;Littoral;urbaine;36,0;postpayé;280,9;3071,0;17;9580;1;0;1;3,0;10,0;non;
+NT101001;2020-02-01; Borgou;rurale;26,0;prépayé;137,0;4275,0;13;5 590 FCFA;3;non;2;3,0;1,5;non;
+NT100252;2021-04-02;Borgou;rurale;18,0;prépayé;67,0;1438,0;37;2490;3;oui;0;3,0;1,3;non;
+NT101456;2024-11-01;Littoral;urbaine;32,0;prépayé;56,3;2028,0;16;2850;4;oui;0;4,0;-27,5;non;
+NT105148;03-03-2023;Littoral;urbaine;25,0;postpayé;191,6;1461,0;8;6980;1;oui;0;3,0;-29,7;non;
+NT102197;01/09/2021;Donga;rurale;36,0;prépayé;137,0;0,0;9;2 540 FCFA;3;non;0;3,0;27,5;non;
+NT105663;2022-10-02;ALIBORI;rurale;;prépayé;68,8;1312,0;11;2 250 FCFA;1;non;0;4,0;-30,5;oui;prix
+NT105227;01/02/2022;Littoral;urbaine;26,0;prépayé;225,7;845,0;8;2950;3;oui;0;3,0;3,1;non;
+NT101052;2023-02-01;DONGA;rurale;18,0;prépayé;36,1;1470,0;4;1930;3;non;0;3,0;-27,6;oui;déménagement
+NT104570;01/02/2023;Littoral;urbaine;33,0;prépayé;178,7;3591,0;24;5310;6;Non;0;;0,2;non;
+NT102692;2023-10-02;Mono;urbaine;19,0;postpayé;83,8;16738,0;94;19150;1;non;0;4,0;-27,8;non;
+NT100244;02-09-2018;LITTORAL;urbaine;20,0;prépayé;38,4;1807,0;30;2 170;6;non;1;4,0;4,6;non;
+NT100484;2023-04-03;Collines;urbaine;28,0;Pré-payé;95,7;17760,0;10;27570;29;oui;0;4,0;2,1;non;
+NT100300;02/09/2023;Atlantique;rurale;49,0;prépayé;48,8;0,0;17;1080;1;non;0;3,0;21,1;non;
+NT101897;02-10-2023;Atacora;urbaine;;prépayé;136,6;1000,0;3;3360;5;non;1;;-23,9;oui;prix
+NT105086;2021-03-03;Atacora;urbaine;28,0;Prépayé;96,9;664,0;64;2190;4;oui;1;4,0;-0,7;non;
+NT101511;2024-11-01;Mono;rurale;;prépayé;;862,0;12;1660;5;non;0;4,0;9,6;non;
+NT105031;2024-07-02;Mono;rurale;37,0;Pré-payé;82,3;3159,0;38;4 550 FCFA;10;non;1;2,0;-4,5;oui;prix
+NT101137;2024-01-02;Atlantique;rurale;38,0;prépayé;83,2;476,0;14;1430;3;non;0;3,0;13,1;NON;
+NT102630;2021-04-02;Zou;urbaine;35,0;prépayé;174,4;2664,0;16;7810;9;oui;0;3,0;6,6;non;
+NT101139;2022-09-02;Mono;rurale;28,0;prépayé;63,6;777,0;17;1410;2;non;0;4,0;1,7;non;
+NT100615;2022-08-02;Plateau;urbaine;24,0;prépayé;76,4;4780,0;36;5810;10;non;0;4,0;-4,4;non;
+NT102254;02/12/2024;Atlantique;rurale;40,0;postpayé;222,6;0,0;11;7290;1;non;1;4,0;4,9;non;
+NT104465;2024-01-02;Atlantique;rurale;23,0;Pré-payé;23,5;584,0;7;930;1;non;0;2,0;-27,5;OUI;déménagement
+NT100513;2023-04-03;Littoral;urbaine;26,0;prépayé;99,6;444,0;2;2310;3;non;0;5,0;-11,3;non;
+NT101732;03/05/2023;Littoral;urbaine;33,0;prépayé;51,4;1484,0;7;2300;8;non;0;4,0;1,1;non;
+NT105670;2017-09-01;Alibori;rurale;31,0;prépayé;302,6;9030,0;27;9820;15;N;1;3,0;-7,3;non;
+NT103912;2019-06-03;Borgou;rurale;18,0;postpayé;252,3;1841,0;32;11450;1;oui;0;3,0;16,3;non;
+NT102867;2023-11-02;Borgou;urbaine;45,0;prépayé;201,1;5430,0;7;5590;6;oui;1;3,0;-14,7;non;
+NT103963;02-12-2019;Couffo;rurale;;prépayé;66,7;5674,0;59;7760;9;oui;0;3,0;8,7;non;
+NT101568;01/02/2023;PLATEAU;rurale;34,0;postpayé;170,3;0,0;33;8 880 FCFA;1;non;0;3,0;-8,2;non;
+NT101493;2023-05-03;Zou;urbaine;36,0;prépayé;47,9;7296,0;22;10930;17;oui;1;4,0;29,7;non;
+NT103460;2021-07-03;Littoral;urbaine;24,0;postpayé;273,9;5976,0;6;10850;1;non;0;4,0;0,5;non;
+NT102016;2017-11-01;Littoral;urbaine;21,0;prepaye;141,9;951,0;17;3400;4;oui;0;3,0;27,4;non;
+NT104936;2023-01-01;Atlantique;urbaine;27,0;postpayé;335,4;2666,0;19;10 240 FCFA;1;non;1;;17,0;non;
+NT103347;02/06/2024;Borgou;urbaine;35,0;prépayé;69,2;1528,0;8;3880;6;oui;0;4,0;-37,5;oui;prix
+NT102349;2021-12-02;Ouémé;urbaine;27,0;prépayé;136,6;0,0;71;2310;3;oui;1;5,0;18,0;;
+NT100452;01/01/2018;Ouémé;urbaine;24,0;prépayé;160,3;1079,0;38;4930;9;oui;0;4,0;-28,6;non;
+NT102042;2021-01-01;Atlantique;urbaine;26,0;prépayé;108,0;4844,0;6;7420;9;O;0;4,0;11,2;non;
+NT102436;02-09-2022;Littoral;urbaine;28,0;postpayé;239,2;2295,0;3;7020;1;oui;1;3,0;14,1;non;
+NT103409;2021-08-02;Alibori;rurale;23,0;prépayé;134,3;8980,0;155;13390;12;oui;2;1,0;8,2;non;
+NT105124;03/03/2023;Plateau;rurale;49,0;prépayé;21,0;153,0;52;920;3;non;1;4,0;-10,7;non;
+NT105566;2023-12-02;Donga;urbaine;49,0;Pré-payé;30,0;4087,0;51;4060;6;oui;0;2,0;-6,8;non;
+NT105459;2020-07-02;Alibori;urbaine;26,0;prépayé;153,6;791,0;27;4730;7;oui;0;5,0;-0,5;non;
+NT104714;03/05/2019;Ouémé;urbaine;33,0;prépayé;83,3;6963,0;16;7180;15;non;0;4,0;-30,2;non;
+NT100928;2023-08-03;Ouémé;urbaine;18,0;prépayé;172,6;5418,0;7;6 530 FCFA;8;Non;2;2,0;-11,1;non;
+NT102834;2022-06-02;Plateau;rurale;47,0;prépayé;160,1;601,0;18;3480;5;non;0;3,0;-13,8;non;
+NT105483;01-02-2020;Borgou;urbaine;51,0;prépayé;92,6;242,0;6;2960;4;oui;1;3,0;-7,4;non;
+NT100564;2024-02-01;Atlantique;urbaine;53,0;postpayé;82,4;11971,0;37;21970;1;non;0;4,0;11,7;non;
+NT103612;2020-11-01;Atlantique;urbaine;0,0;prépayé;224,0;2509,0;16;4 080 FCFA;4;oui;0;2,0;-20,7;non;
+NT105929;02-12-2022;Plateau;rurale;56,0;prépayé;41,6;64,0;24;1040;3;N;0;2,0;-21,4;oui;déménagement
+NT100979;2022-04-02;OUÉMÉ;rurale;44,0;prépayé;88,2;0,0;30;1510;3;non;0;5,0;6,8;non;
+NT103748;03-07-2022;Atlantique;urbaine;46,0;prépayé;65,9;2507,0;135;5590;4;non;1;2,0;-15,4;non;
+NT102489;02/04/2024;;urbaine;38,0;prepaye;134,5;6986,0;34;6770;5;non;2;4,0;-7,8;non;
+NT105967;01-02-2024;;rurale;31,0;prépayé;104,9;1123,0;17;3460;8;non;1;2,0;7,5;non;
+NT105819;2019-03-03;Littoral;urbaine;26,0;prépayé;74,3;5923,0;20;8360;18;oui;0;3,0;-13,6;non;
+NT102920;2020-07-02;Collines;rurale;24,0;prépayé;205,8;1249,0;53;4980;7;non;0;5,0;-23,8;non;
+NT100363;2023-02-01;Littoral;urbaine;45,0;prépayé;96,9;0,0;49;1800;4;N;0;3,0;17,0;non;
+NT105084;2022-12-02;Alibori;rurale;22,0;prépayé;30,8;1075,0;14;1860;1;non;1;4,0;19,6;non;
+NT105549;2024-10-02;Ouémé;urbaine;29,0;Postpayé;87,5;16960,0;6;19640;1;non;1;2,0;5,7;non;
+NT102924;2020-07-02;Ouémé;rurale;;prépayé;91,2;1347,0;13;2 750 FCFA;5;oui;1;4,0;-11,8;non;
+NT100167;2023-05-03;Donga;rurale;18,0;prépayé;49,8;691,0;35;1 450 FCFA;5;non;1;2,0;-10,5;non;
+NT103651;2023-07-03;Ouémé;urbaine;41,0;postpayé;218,1;0,0;7;6980;1;non;0;3,0;-14,5;non;
+NT103161;2024-02-01;Plateau;urbaine;28,0;prépayé;134,0;1409,0;22;2070;1;non;1;3,0;0,6;oui;réseau
+NT104735;2021-11-01;Littoral;urbaine;27,0;prépayé;41,7;6097,0;7;6630;10;non;0;3,0;-0,8;non;
+NT100951;2024-12-02;Borgou;urbaine;36,0;prepaye;72,8;3099,0;164;5 370 FCFA;11;non;0;5,0;1,1;NON;
+NT100954;02/08/2022;Mono;rurale;53,0;prépayé;33,6;0,0;17;920;2;non;0;2,0;0,3;non;
+NT105275;2023-05-03;Plateau;rurale;28,0;prépayé;76,6;897,0;16;1 880 FCFA;1;oui;2;3,0;7,4;non;
+NT103159;02-06-2018;Couffo;rurale;36,0;prépayé;114,1;2413,0;111;5 950 FCFA;5;non;0;4,0;-6,6;non;
+NT104539;2021-05-03;Atlantique;rurale;21,0;postpayé;188,7;2198,0;18;11 080 FCFA;1;oui;1;3,0;5,7;non;
+NT101749;2024-06-02;Couffo;urbaine;41,0;postpayé;74,5;4431,0;11;11320;1;non;0;4,0;-10,0;non;
+NT105007;2019-04-03;Atlantique;rurale;41,0;prépayé;106,8;550,0;50;2820;1;non;1;3,0;-1,2;NON;
+NT104664;2023-05-03;Borgou;urbaine;26,0;prépayé;124,7;2953,0;27;5 700;8;Oui;0;3,0;16,0;NON;
+NT100075;03/06/2019;Ouémé;rurale;20,0;prépayé;65,7;589,0;6;1 650 FCFA;3;oui;0;1,0;-7,0;non;
+NT104270;2024-03-03;Donga;rurale;35,0;prépayé;371,1;21425,0;9;19280;23;non;2;2,0;-18,1;non;
+NT104791;02/09/2022;Littoral;urbaine;44,0;prépayé;22,1;1126,0;60;2100;5;oui;1;3,0;20,4;non;
+NT104897;2021-07-03;Littoral;urbaine;22,0;prépayé;53,1;1476,0;20;2530;7;oui;0;3,0;6,2;non;
+NT103880;03/04/2019;Borgou;urbaine;48,0;prepaye;51,6;1779,0;1;2390;3;non;1;1,0;-2,1;oui;concurrence
+NT105872;2024-06-02;Borgou;rurale;26,0;prépayé;44,9;339,0;7;820;1;oui;0;;6,4;non;
+NT105575;2016-11-01;Ouémé;rurale;22,0;postpayé;;1932,0;14;7080;1;1;0;2,0;-1,1;non;
+NT100566;2019-10-02;Littoral;urbaine;32,0;prépayé;130,8;0,0;70;2410;4;oui;0;3,0;-18,7;non;
+NT102600;02/04/2022;Collines;rurale;38,0;postpayé;136,9;3123,0;25;8 430 FCFA;1;non;0;4,0;2,2;non;
+NT102108;2020-02-01;COUFFO;urbaine;37,0;postpayé;41,8;176128,0;16;4610;1;oui;0;3,0;17,3;non;
+NT101049;2017-06-02;Collines;urbaine;35,0;prepaye;187,8;7770,0;35;10 640 FCFA;9;oui;0;4,0;0,3;non;
+NT104829;2021-12-02;Atacora;rurale;26,0;prépayé;87,1;7087,0;6;6 680 FCFA;10;oui;0;3,0;10,9;non;
+NT102082;2014-04-02;Mono;rurale;44,0;prépayé;29,6;1574,0;8;2190;3;non;0;2,0;-3,4;non;
+NT105981;2024-04-02;Zou;rurale;37,0;prépayé;46,4;2390,0;17;2 160 FCFA;4;non;1;5,0;-4,7;non;
+NT100535;03-06-2023;Littoral;urbaine;44,0;postpayé;397,3;15491,0;1;16080;1;non;0;2,0;-11,7;non;
+NT100692;2024-06-02;Borgou;urbaine;33,0;prépayé;40,2;2778,0;147;3590;6;non;0;4,0;18,8;non;
+NT101484;01/01/2023;Ouémé;urbaine;30,0;prépayé;55,1;1677,0;4;2230;3;N;1;5,0;22,3;non;
+NT103068;02-06-2022;Mono;rurale;;prépayé;111,3;1029,0;13;2780;5;non;0;2,0;12,7;non;
+NT102398;2023-07-03;Couffo;rurale;20,0;prépayé;100,4;360,0;35;2 260 FCFA;4;non;1;;-6,7;oui;déménagement
+NT101264;01/09/2021;Donga;rurale;23,0;prépayé;453,2;357,0;45;7780;8;non;0;3,0;-2,9;non;
+NT105506;2021-08-02;Littoral;urbaine;23,0;postpayé;81,3;1875,0;11;5870;1;non;0;2,0;-4,1;non;
+NT105683;03-05-2022; Borgou;rurale;35,0;prépayé;84,2;0,0;48;1670;4;non;0;;-10,0;non;
+NT101120;02-08-2017;Atlantique;urbaine;37,0;prépayé;73,1;459,0;49;1650;5;non;1;3,0;-11,1;non;
+NT101825;2022-02-01;Borgou;rurale;31,0;postpayé;186,6;1283,0;90;10050;1;non;1;3,0;11,0;non;
+NT103492;2021-01-01;Borgou;urbaine;27,0;PREPAYE;199,7;6089,0;1;7300;4;oui;0;3,0;-0,1;non;
+NT105504;2019-08-02;Atlantique;urbaine;20,0;prépayé;66,1;2523,0;15;2280;3;0;0;4,0;1,2;non;
+NT102675;2024-08-02;Ouémé;rurale;18,0;prépayé;103,4;10674,0;64;11460;11;oui;0;5,0;-8,7;non;
+NT103709;2023-02-01;Ouémé;rurale;32,0;prépayé;352,7;1791,0;14;9 000 FCFA;15;Non;0;5,0;23,1;non;
+NT105415;2017-10-02;Collines;rurale;30,0;prépayé;46,1;917,0;1;2540;5;non;0;3,0;-9,2;non;
+NT105419;03-03-2023;Collines;rurale;40,0;prépayé;;1254,0;19;2 720;4;oui;0;;-9,6;non;
+NT105149;2018-06-02;Ouémé;urbaine;43,0;postpayé;68,6;207,0;36;4780;1;non;1;4,0;-3,0;non;
+NT103711;2022-05-03;Atlantique;rurale;21,0;prépayé;147,1;1685,0;9;3070;5;non;1;3,0;6,7;OUI;déménagement
+NT102633;2019-02-01;Mono;rurale;30,0;prépayé;48,0;0,0;13;1 120 FCFA;2;non;1;5,0;13,1;non;
+NT100101;03-05-2022;Atlantique;rurale;999,0;PREPAYE;59,0;4529,0;29;4 120 FCFA;6;oui;0;3,0;9,2;non;
+NT102148;2020-04-02;Plateau;urbaine;28,0;Prépayé;49,6;13934,0;79;9 900;12;oui;0;5,0;-4,7;non;
+NT102740;2021-04-02;Littoral;urbaine;;PREPAYE;32,7;1522,0;52;2 160 FCFA;4;oui;0;2,0;0,6;non;
+NT100443;2023-06-03;Ouémé;rurale;22,0;prépayé;45,3;496,0;37;1 600;5;oui;1;1,0;-16,0;oui;réseau
+NT100055;02/07/2024;Collines;rurale;18,0;prépayé;241,7;5288,0;35;7310;14;oui;0;4,0;4,6;non;
+NT102068;2024-06-02;Atacora;rurale;43,0;prépayé;187,2;2911,0;23;4 870 FCFA;7;non;2;2,0;-5,9;oui;prix
+NT103020;2023-10-02;Plateau;rurale;44,0;POSTPAYE;81,2;2331,0;11;9 130;1;non;0;2,0;-2,7;non;
+NT105126;02/10/2022;Ouémé;urbaine;;prépayé;131,0;2611,0;10;4450;5;oui;1;4,0;5,4;non;
+NT102578;2023-12-02;Alibori;rurale;23,0;Prépayé;85,3;285,0;91;2060;3;non;0;3,0;-21,2;NON;
+NT100412;2023-08-03;Atlantique;urbaine;20,0;prépayé;268,0;2092,0;32;5390;10;oui;0;4,0;-5,2;;
+NT104197;2018-11-01;Collines;rurale;33,0;prépayé;145,5;1409,0;42;4460;9;non;0;4,0;3,0;non;
+NT104002;03-03-2024;Atlantique;rurale;44,0;prépayé;79,1;212,0;15;1830;2;non;0;3,0;-3,8;non;
+NT105593;2022-02-01;Borgou;urbaine;21,0;postpayé;444,2;7558,0;66;13810;1;oui;2;3,0;10,3;non;
+NT105493;2024-01-02;Littoral;urbaine;33,0;prépayé;203,3;420,0;14;3210;5;oui;2;4,0;30,5;non;
+NT101759;2020-11-01;Atlantique;urbaine;38,0;prépayé;88,1;7233,0;9;11120;17;oui;0;5,0;11,6;non;
+NT103122;2022-10-02;Littoral;urbaine;31,0;postpayé;125,1;3901,0;41;8920;1;non;1;2,0;-26,9;non;
+NT100245;2017-08-02;Atlantique;urbaine;;prépayé;145,9;14440,0;25;17720;20;oui;0;4,0;-20,5;non;
+NT101361;2022-06-02;Atacora;rurale;44,0;PREPAYE;84,6;1514,0;6;4230;4;non;0;4,0;24,7;non;
+NT105325;01/11/2024;Borgou;urbaine;39,0;prépayé;116,9;487,0;28;3010;2;non;1;3,0;-20,3;non;
+NT103900;03/04/2023;Collines;urbaine;42,0;prépayé;293,0;745,0;23;5010;8;non;0;3,0;-20,1;oui;concurrence
+NT102856;2024-01-02; Zou;urbaine;36,0;prépayé;236,0;2193,0;72;5450;11;oui;0;;1,8;non;
+NT102121;01-09-2024;Littoral;urbaine;52,0;prépayé;185,8;152,0;8;3 960 FCFA;3;oui;1;4,0;-5,9;non;
+NT105446;02/10/2022;Zou;urbaine;39,0;prépayé;83,6;1161,0;29;3 120;5;O;0;4,0;16,2;non;
+NT103810;2022-06-02;Mono;urbaine;;prépayé;76,6;6565,0;8;7390;6;non;0;5,0;15,0;non;
+NT100875;02/08/2022;ATLANTIQUE;urbaine;33,0;prépayé;228,2;1530,0;3;5690;4;non;2;2,0;37,5;non;
+NT101468;2024-03-03;Atlantique;urbaine;34,0;prépayé;107,3;1464,0;148;4270;4;oui;2;3,0;-27,1;non;
+NT102948;03/04/2023;Plateau;urbaine;;prépayé;128,0;19625,0;14;25560;37;O;0;4,0;-12,9;non;
+NT102226;02/01/2024;Atlantique;urbaine;48,0;prépayé;250,8;1459,0;74;5510;13;oui;0;;14,6;non;
+NT100602;2018-03-03;Couffo;rurale;24,0;prépayé;23,7;5077,0;9;3 840 FCFA;5;non;1;4,0;14,6;non;
+NT102987;2024-09-01;;urbaine;38,0;prépayé;81,9;3570,0;35;5360;8;non;1;3,0;-17,5;non;
+NT102733;2023-08-03;Atlantique;rurale;34,0;prépayé;451,8;0,0;16;7420;12;non;1;3,0;5,7;oui;concurrence
+NT104139;03-08-2023;Couffo;rurale;23,0;prépayé;78,0;17513,0;34;13130;17;non;0;1,0;30,3;non;
+NT102454;2023-12-02;Plateau;urbaine;44,0;prépayé;150,4;0,0;16;2720;6;non;0;3,0;-12,0;non;
+NT100495;2024-12-02;Couffo;rurale;32,0;prépayé;264,5;0,0;6;4510;5;non;1;2,0;23,7;non;
+NT101735;2023-02-01;Mono;urbaine;35,0;Prépayé;262,7;1640,0;32;6890;11;non;0;3,0;-11,2;non;
+NT102263;2023-08-03;Ouémé;rurale;35,0;prépayé;52,5;6695,0;23;6440;10;non;1;1,0;-6,3;oui;réseau
+NT102052;2023-02-01; Alibori;rurale;24,0;prépayé;319,7;30717,0;12;34410;52;non;2;2,0;19,4;non;
+NT102466;2019-04-03;Ouémé;urbaine;32,0;postpayé;;2703,0;14;6 930 FCFA;1;non;1;5,0;1,0;non;
+NT105906;2019-11-02;ATLANTIQUE;rurale;29,0;prépayé;116,0;8015,0;5;9500;8;oui;0;2,0;-22,1;non;
+NT104232;02/04/2018;Mono;urbaine;41,0;postpayé;1173,2;0,0;2;17160;1;0;1;;-19,6;non;
+NT105408;02-08-2019;Zou;rurale;50,0;PREPAYE;73,9;0,0;109;1950;2;non;0;4,0;9,1;non;
+NT105679;2021-12-02;Borgou;urbaine;27,0;prépayé;125,0;3007,0;3;4550;5;Non;1;;4,5;non;
+NT100401;2024-04-02;ATACORA;rurale;23,0;prépayé;216,0;1148,0;15;3860;5;oui;2;2,0;-12,3;non;
+NT102780;2017-03-03;Mono;rurale;30,0;Pré-payé;33,2;3642,0;13;3 800;7;oui;0;3,0;-2,9;non;
+NT102041;2018-09-02;Ouémé;rurale;22,0;prépayé;444,4;421,0;29;6280;8;non;0;4,0;3,9;non;
+NT101194;02-06-2024;Littoral;urbaine;49,0;postpayé;194,1;897,0;2;8500;1;non;1;4,0;-6,6;non;
+NT103727;2022-02-01;Alibori;rurale;42,0;Prépayé;116,0;0,0;43;2 100;3;non;1;5,0;-21,4;non;
+NT105648;2022-12-02;Couffo;rurale;28,0;prépayé;24,3;0,0;47;940;3;non;0;3,0;17,0;non;
+NT102065;2023-01-01;Plateau;urbaine;27,0;postpayé;495,2;11611,0;7;19 230 FCFA;1;1;1;4,0;-21,3;non;
+NT101936;01/09/2021;Littoral;urbaine;26,0;postpayé;324,9;0,0;44;8090;1;Oui;1;2,0;-17,4;non;
+NT105288;2022-08-02;Borgou;rurale;38,0;prépayé;46,1;2550,0;6;2120;6;non;4;2,0;-12,8;oui;déménagement
+NT102747;2023-07-03;Couffo;urbaine;32,0;prépayé;482,2;1357,0;14;6280;6;non;0;4,0;-1,9;non;
+NT101642;03/04/2023;ATLANTIQUE;urbaine;51,0;prépayé;91,9;921,0;18;2 440 FCFA;3;non;0;3,0;-7,6;non;
+NT101089;2024-06-02;Atacora;rurale;24,0;prépayé;93,2;514,0;6;2180;3;0;1;3,0;-12,6;oui;concurrence
+NT105941;2024-06-02;Borgou;urbaine;46,0;Pré-payé;60,3;2122,0;54;2640;7;non;0;4,0;-12,6;non;
+NT102821;2024-08-02;Littoral;urbaine;34,0;prépayé;84,2;2037,0;30;3690;5;oui;0;5,0;7,0;non;
+NT101624;02/08/2022;Alibori;rurale;38,0;prépayé;174,2;2149,0;5;4120;5;non;0;4,0;-7,3;non;
+NT100976;2023-05-03;Alibori;rurale;20,0;prépayé;59,2;728,0;17;1750;5;oui;0;3,0;-46,8;oui;concurrence
+NT101386;02/06/2022;Ouémé;urbaine;41,0;prépayé;;1943,0;16;2530;3;non;1;2,0;-7,5;non;
+NT105107;2020-05-02;Donga;rurale;18,0;prépayé;334,2;7003,0;9;8490;10;non;1;;-3,6;non;
+NT100259;2023-07-03;MONO;urbaine;36,0;prépayé;124,1;1318,0;16;3710;6;oui;1;4,0;35,4;non;
+NT100213;2024-09-01;Couffo;rurale;33,0;prépayé;48,5;4210,0;9;5350;10;non;1;5,0;9,9;non;
+NT102947;2019-11-02;Atacora;rurale;20,0;prépayé;104,1;331,0;11;2470;5;non;0;3,0;-9,3;non;
+NT101885;2018-12-02;Plateau;rurale;26,0;Prépayé;159,0;3947,0;10;6340;6;oui;1;5,0;11,6;non;
+NT100298;02-12-2022;Littoral;urbaine;35,0;PREPAYE;55,8;1321,0;28;2010;4;non;1;;-19,2;OUI;concurrence
+NT102602;02/04/2022;Littoral;urbaine;27,0;prépayé;155,6;627,0;21;1880;2;non;1;4,0;-19,4;oui;réseau
+NT103271;2021-08-02;Alibori;rurale;22,0;prépayé;300,4;2307,0;81;12090;10;oui;1;3,0;17,6;non;
+NT101364;2022-12-02;Littoral;urbaine;50,0;prépayé;60,2;1918,0;19;2 900 FCFA;7;N;1;;-5,4;non;
+NT102257;2023-03-03;Atlantique;urbaine;29,0;prépayé;62,4;722,0;54;2800;8;oui;0;5,0;8,9;non;
+NT103584;02/07/2024;Donga;rurale;42,0;prépayé;48,2;1197,0;15;1490;2;non;1;4,0;15,8;non;
+NT100553;03-05-2022;ATACORA;rurale;32,0;prépayé;66,2;204,0;11;1490;3;oui;0;;4,3;NON;
+NT104522;2022-03-03; OUÉMÉ;rurale;24,0;prépayé;214,7;345,0;3;3960;2;non;1;1,0;0,4;non;
+NT100961;2023-08-03;Alibori;urbaine;28,0;prépayé;115,8;5782,0;11;6870;12;non;1;3,0;-1,7;non;
+NT102873;03-03-2021;Atlantique;urbaine;36,0;prépayé;56,5;2569,0;1;3710;6;oui;0;4,0;13,7;non;
+NT101636;02/11/2022; Littoral;urbaine;35,0;prépayé;176,4;9429,0;22;9620;11;oui;0;3,0;21,3;non;
+NT103158;2020-12-01;Donga;urbaine;38,0;postpayé;99,8;0,0;58;5150;1;non;1;1,0;0,9;non;
+NT105479;02-06-2024;Collines;rurale;18,0;postpayé;252,7;3995,0;19;14880;1;non;0;2,0;11,1;non;
+NT103997;01-09-2024;Collines;rurale;35,0;prépayé;61,2;0,0;16;1 460 FCFA;3;non;1;2,0;-31,3;oui;concurrence
+NT103992;02/04/2021;Littoral;urbaine;42,0;prépayé;84,6;2198,0;19;3210;7;oui;1;3,0;5,2;non;
+NT100435;02-06-2016;Atacora;urbaine;34,0;prépayé;114,5;3732,0;25;3 920 FCFA;7;oui;0;3,0;1,2;non;
+NT104024;02/06/2024;Zou;urbaine;29,0;PREPAYE;39,9;2408,0;19;3 850 FCFA;4;oui;0;3,0;-4,0;non;
+NT102453;2024-05-02;Couffo;rurale;35,0;prépayé;105,1;1211,0;49;2760;5;non;0;1,0;14,7;non;
+NT100788;2022-05-03;OUÉMÉ;urbaine;27,0;prépayé;52,5;2218,0;13;2420;2;non;0;;-16,3;oui;prix
+NT104430;2023-03-03;Atlantique;rurale;29,0;postpayé;448,6;2826,0;37;14750;1;non;1;4,0;-1,8;non;
+NT102138;03/04/2023;Atlantique;urbaine;18,0;prépayé;167,8;2656,0;19;4110;5;oui;0;4,0;-13,4;non;
+NT105568;01/01/2021;Ouémé;rurale;43,0;postpayé;108,7;1561,0;20;10120;1;oui;0;3,0;8,0;non;
+NT103019;2024-08-02;Mono;rurale;33,0;prépayé;72,6;160,0;4;1530;2;non;0;2,0;-6,0;non;
+NT105370;2024-01-02;Plateau;rurale;23,0;prépayé;113,8;2379,0;2;4 400 FCFA;6;oui;0;3,0;7,8;non;
+NT104507;2021-11-01;;urbaine;0,0;prépayé;133,7;691,0;1;1 780 FCFA;3;oui;2;3,0;-19,0;non;
+NT105070;2022-05-03;Littoral;urbaine;;prépayé;149,7;7494,0;11;8350;5;oui;1;5,0;-0,3;non;
+NT104249;2023-09-02;;urbaine;;prépayé;129,8;368,0;10;2940;4;non;0;3,0;23,1;non;
+NT103324;02/08/2019;Littoral;urbaine;47,0;prépayé;314,5;496,0;30;4370;3;non;1;3,0;-15,6;NON;
+NT101478;2023-10-02;ATLANTIQUE;rurale;36,0;prepaye;69,0;362,0;33;2220;6;non;1;4,0;13,2;non;
+NT103000;2023-07-03;Collines;rurale;40,0;prépayé;131,5;888,0;59;3850;8;N;0;3,0;-14,5;non;
+NT101839;2017-11-01;Ouémé;rurale;59,0;prépayé;79,2;311,0;18;1 780;1;non;0;3,0;-9,0;non;
+NT101656;2020-09-01;Mono;rurale;51,0;prépayé;270,4;2487,0;12;7700;8;non;2;2,0;8,1;non;
+NT100319;2024-04-02;Collines;rurale;39,0;prépayé;97,8;495,0;22;1840;1;non;2;2,0;-24,2;oui;déménagement
+NT105751;01/09/2020;Collines;rurale;18,0;prépayé;80,1;10617,0;20;9000;8;oui;0;4,0;10,1;non;
+NT105927;2017-12-02;Collines;urbaine;29,0;prépayé;108,7;481,0;35;3050;3;oui;0;2,0;2,7;non;
+NT100801;2023-10-02;Atlantique;urbaine;38,0;postpayé;259,3;6372,0;7;14 400;1;1;0;3,0;-20,3;NON;
+NT104152;2022-09-02;OUÉMÉ;urbaine;35,0;prépayé;90,4;744,0;9;1900;2;Oui;1;;2,6;non;
+NT100309;03/07/2023;Plateau;rurale;42,0;PREPAYE;86,3;1686,0;20;2500;6;non;1;4,0;13,7;non;
+NT104751;2023-06-03;Alibori;rurale;39,0;postpayé;363,0;1191,0;11;11 300 FCFA;1;non;2;3,0;27,4;non;
+NT105139;2021-04-02;Alibori;rurale;29,0;prépayé;294,2;3216,0;86;6480;6;N;1;3,0;13,5;non;
+NT101216;2023-12-02;Zou;urbaine;41,0;prépayé;178,0;583,0;9;2870;3;oui;0;4,0;-21,3;non;
+NT100051;2021-12-02;Donga;rurale;32,0;prépayé;104,4;1315,0;89;4 070;8;non;0;3,0;-15,5;non;
+NT104287;2018-03-03;Zou;urbaine;32,0;postpayé;737,8;6211,0;14;20390;1;non;0;5,0;8,7;non;
+NT100967;2024-05-02;Couffo;urbaine;41,0;postpayé;122,4;2679,0;14;10 320 FCFA;1;non;0;4,0;28,3;non;
+NT102353;2022-02-01;Borgou;rurale;30,0;PREPAYE;104,4;1444,0;40;2380;5;non;1;4,0;-6,9;non;
+NT105214;02-03-2020;Mono;rurale;41,0;prépayé;121,9;115,0;13;2810;2;non;1;2,0;0,6;non;
+NT105498;03/06/2019;Ouémé;urbaine;29,0;prépayé;77,3;24738,0;59;33890;36;oui;1;4,0;6,8;non;
+NT100921;2021-03-03;Collines;urbaine;18,0;prépayé;79,9;10616,0;5;12040;12;oui;0;2,0;-9,2;non;
+NT104699;2022-04-02;Ouémé;urbaine;18,0;prépayé;205,0;1432,0;16;3 830;5;oui;0;;-20,5;non;
+NT105274;02/05/2024;Zou;rurale;42,0;prépayé;63,2;405,0;20;1810;2;non;0;3,0;4,9;non;
+NT100208;2022-04-02;Donga;rurale;20,0;prépayé;98,4;5581,0;9;4670;5;0;2;2,0;2,8;oui;réseau
+NT100589;2021-09-01;Borgou;rurale;44,0;prépayé;106,3;0,0;0;1380;4;non;0;;-7,2;oui;prix
+NT105163;2023-07-03;Zou;urbaine;47,0;prépayé;209,9;3559,0;13;6870;8;oui;3;3,0;-0,5;non;
+NT103674;2022-02-01;Ouémé;urbaine;33,0;prépayé;142,6;2304,0;27;5240;10;oui;0;3,0;-1,2;non;
+NT103557;2022-06-02;Littoral;urbaine;40,0;postpayé;134,4;3020,0;14;11 020 FCFA;1;0;1;3,0;-11,7;non;
+NT101564;02/11/2022;Littoral;urbaine;22,0;Prépayé;323,1;525,0;12;3930;5;non;2;1,0;21,4;non;
+NT104239;2019-08-02;Atlantique;urbaine;37,0;prépayé;50,8;11080,0;63;11100;9;non;0;4,0;26,1;non;
+NT100153;02/11/2022;Plateau;urbaine;44,0;Prépayé;362,5;919,0;109;7470;6;non;1;4,0;-8,7;non;
+NT102308;02/08/2021;Atacora;rurale;30,0;prépayé;108,6;0,0;3;1320;1;Non;0;3,0;-25,4;non;
+NT100132;2024-01-02;Littoral;urbaine;33,0;prépayé;121,2;2875,0;49;4280;6;non;0;3,0;7,2;non;
+NT104880;02/08/2020;Borgou;rurale;25,0;PREPAYE;91,9;1353,0;27;3280;4;non;0;2,0;3,1;non;
+NT105058;2024-03-03;Atacora;rurale;43,0;prépayé;156,6;4213,0;18;7970;7;non;0;3,0;13,2;non;
+NT104404;03/07/2023;Donga;urbaine;46,0;prépayé;163,3;3201,0;41;6280;10;non;0;5,0;36,5;NON;
+NT102594;2021-11-01; Mono;urbaine;30,0;postpayé;177,4;1538,0;18;6930;1;oui;2;5,0;5,5;non;
+NT101100;02/10/2021;Plateau;urbaine;37,0;prépayé;19,3;1594,0;4;1760;1;1;1;4,0;33,8;non;
+NT103763;02/09/2023;Littoral;urbaine;39,0;prépayé;97,6;0,0;38;1 890;2;0;0;4,0;-29,3;OUI;concurrence
+NT104978;2018-08-02;Atacora;rurale;20,0;prépayé;63,7;0,0;7;840;3;oui;0;2,0;-9,7;non;
+NT101735;2023-02-01;Mono;urbaine;35,0;Prépayé;262,7;1640,0;32;6890;11;non;0;3,0;-11,2;non;
+NT103890;02/04/2013;Borgou;rurale;;Postpayé;166,4;2065,0;33;6270;1;non;0;;-13,6;non;
+NT105339;02/11/2023;Littoral;urbaine;26,0;prépayé;124,9;1125,0;14;3980;3;non;2;2,0;-11,8;oui;prix
+NT101022;03/04/2023;Littoral;urbaine;25,0;prépayé;412,8;1840,0;5;7820;9;oui;0;3,0;-21,7;non;
+NT100344;2024-04-02;Zou;rurale;45,0;postpayé;187,5;3150,0;7;10570;1;oui;1;3,0;26,6;non;
+NT101900;2023-06-03;;rurale;18,0;prépayé;397,2;976,0;5;12240;17;N;0;3,0;6,2;non;
+NT100550;02/10/2023;Mono;rurale;35,0;prépayé;73,8;205,0;9;1430;1;oui;0;4,0;1,0;non;
+NT103490;2024-12-02;Borgou;urbaine;52,0;prépayé;137,9;147,0;45;3910;4;oui;0;3,0;5,0;non;
+NT104092;02/01/2020;Couffo;rurale;48,0;prépayé;81,1;4487,0;80;5530;10;oui;0;3,0;7,0;non;
+NT105200;2019-09-02;Atlantique;urbaine;18,0;prépayé;206,0;14590,0;23;9680;15;oui;0;3,0;-10,0;NON;
+NT101927;2023-03-03;Zou;urbaine;31,0;prépayé;63,2;1548,0;36;2690;4;oui;0;4,0;-45,4;non;
+NT100286;02/08/2019;Littoral;urbaine;24,0;prépayé;244,5;4110,0;86;7550;12;non;1;3,0;-23,9;non;
+NT102168;01/09/2021;Plateau;urbaine;39,0;Pré-payé;191,6;1250,0;33;3 460 FCFA;5;non;0;3,0;-19,1;non;
+NT103473;01-09-2020;Ouémé;urbaine;39,0;postpayé;223,0;2549,0;8;8920;1;1;0;3,0;1,7;non;
+NT101383;2023-09-02;Ouémé;urbaine;43,0;postpayé;317,4;2821,0;14;10370;1;non;0;4,0;-1,4;non;
+NT103264;2021-10-02;Borgou;rurale;47,0;prépayé;148,9;-1,0;11;2 600 FCFA;3;non;0;3,0;8,5;non;
+NT102071;2022-08-02;Littoral;urbaine;;Pré-payé;51,5;3999,0;36;4550;9;non;0;4,0;-6,6;NON;
+NT103238;2016-10-01;Atlantique;rurale;24,0;prépayé;63,4;2038,0;35;3010;2;oui;0;2,0;-16,0;non;
+NT100841;01/01/2023;Zou;rurale;0,0;prépayé;429,4;0,0;38;7520;6;non;1;3,0;5,8;non;
+NT102854;2023-04-03;Alibori;rurale;22,0;prépayé;60,9;1209,0;3;2 800;3;non;0;4,0;10,7;non;
+NT100053;02/10/2021;Ouémé;urbaine;42,0;prépayé;;1403904,0;4;3740;5;oui;0;4,0;-5,6;non;
+NT105823;2023-12-02;Atacora;urbaine;34,0;prépayé;199,9;4927,0;14;5960;7;oui;1;2,0;12,4;non;
+NT100154;02/01/2024;Littoral;urbaine;18,0;prépayé;300,2;3408,0;2;9 030 FCFA;8;non;0;4,0;-6,1;non;
+NT104923;02/06/2021;Littoral;urbaine;28,0;PREPAYE;125,4;300,0;12;2 620 FCFA;3;oui;0;3,0;8,4;non;
+NT102030;02/03/2020;Borgou;urbaine;19,0;prépayé;181,4;1697,0;56;3 070 FCFA;9;oui;0;3,0;-9,7;non;
+NT105376;01/09/2020;Alibori;rurale;41,0;prépayé;323,0;1185,0;49;6200;8;non;0;1,0;23,1;non;
+NT105542;02-10-2022;Littoral;urbaine;22,0;prépayé;376,8;2578,0;21;6 230 FCFA;5;N;0;3,0;19,2;non;
+NT104550;03/03/2024;Littoral;urbaine;28,0;postpayé;506,8;9190,0;21;13460;1;non;0;5,0;9,8;non;
+NT104388;02/07/2024;Collines;urbaine;22,0;postpayé;101,2;25271,0;28;28740;1;non;0;4,0;22,5;non;
+NT103572;2021-09-01;Alibori;rurale;25,0;Prépayé;78,0;1505,0;2;2740;5;non;0;4,0;-12,2;non;
+NT102415;2023-06-03;Ouémé;rurale;25,0;prépayé;267,0;715,0;11;6340;4;non;0;3,0;-2,6;non;
+NT100023;2023-08-03; Atacora;urbaine;31,0;prépayé;123,2;1791,0;21;3670;9;O;1;4,0;11,1;non;
+NT102875;02/04/2021;Ouémé;rurale;39,0;prépayé;199,2;1921,0;47;4800;6;non;2;2,0;12,2;non;
+NT102279;01/02/2024;OUÉMÉ;rurale;38,0;postpayé;162,6;379,0;16;3 660;1;non;1;2,0;-3,6;NON;
+NT102378;2022-11-02;Alibori;rurale;46,0;prépayé;131,2;0,0;122;3140;2;non;1;4,0;14,7;non;
+NT102541;2023-11-02;Atacora;urbaine;44,0;prépayé;91,0;1081,0;26;2310;2;oui;1;2,0;28,0;non;
+NT101942;2023-11-02;Ouémé;urbaine;36,0;postpayé;188,9;971,0;17;8 500;1;oui;0;2,0;-6,2;NON;
+NT105469;2024-06-02;Littoral;urbaine;28,0;prépayé;51,8;4002,0;20;5830;6;non;1;2,0;-2,6;oui;concurrence
+NT103218;2018-04-02;Borgou;urbaine;;postpayé;247,7;5059,0;65;10 000 FCFA;1;non;1;;-21,0;non;
+NT102511;02-11-2023;Zou;urbaine;23,0;prepaye;26,5;900,0;14;1270;3;oui;1;4,0;-32,8;non;
+NT104149;2022-04-02;Borgou;urbaine;47,0;prépayé;25,2;134,0;5;670;1;Non;0;3,0;8,7;non;
+NT102033;03-05-2023;Borgou;rurale;30,0;prépayé;90,1;1068,0;15;3 020 FCFA;7;non;1;;-7,7;oui;réseau
+NT104442;2017-01-01;Alibori;rurale;37,0;prépayé;104,4;637,0;1;1780;3;non;0;3,0;15,3;oui;concurrence
+NT105704;2022-06-02;Plateau;rurale;34,0;prépayé;177,7;1293,0;128;4290;7;oui;0;3,0;-20,6;non;
+NT101261;2024-01-02;Ouémé;rurale;39,0;prépayé;84,2;755,0;131;2 810 FCFA;2;non;0;3,0;0,2;non;
+NT102755;02-12-2022;Mono;rurale;18,0;prépayé;57,0;631,0;63;1420;2;non;4;;2,7;oui;déménagement
+NT104696;2021-03-03;Ouémé;urbaine;41,0;postpayé;105,4;2040,0;97;6070;1;oui;0;4,0;-10,8;non;
+NT102015;2023-03-03;Plateau;rurale;25,0;prépayé;48,9;418,0;29;1250;1;non;0;3,0;-17,7;non;
+NT100715;2020-01-02;Couffo;rurale;26,0;prépayé;117,4;2730,0;23;5420;4;non;0;3,0;19,6;non;
+NT104310;02/06/2021; Ouémé;urbaine;;prépayé;;0,0;13;6620;8;non;0;3,0;-5,8;non;
+NT103859;2024-05-02;Borgou;rurale;30,0;prépayé;124,3;2405,0;17;3770;4;non;1;3,0;-6,1;non;
+NT105439;03/08/2023;MONO;rurale;28,0;prépayé;261,7;0,0;60;6 110;7;non;1;5,0;10,6;non;
+NT103558;2022-02-01;Donga;urbaine;22,0;prépayé;212,9;13639,0;7;19640;30;non;1;4,0;0,4;non;
+NT101092;2023-10-02;Collines;rurale;18,0;prépayé;29,4;1975,0;13;2390;2;non;0;3,0;-4,5;non;
+NT105983;2023-07-03;Couffo;rurale;35,0;prépayé;100,6;12810,0;11;14200;16;non;0;4,0;1,7;non;
+NT102956;02/12/2022;Alibori;rurale;18,0;prépayé;146,9;565,0;21;2960;4;non;0;;-0,1;non;
+NT100776;01/01/2023;Borgou;urbaine;18,0;prépayé;102,9;1081,0;8;3600;6;non;0;4,0;-0,1;non;
+NT104669;2022-05-03;Littoral;urbaine;38,0;prépayé;159,2;3264,0;10;4290;6;non;0;2,0;-1,9;non;
+NT105258;2023-06-03;Couffo;rurale;25,0;prépayé;202,9;3553,0;49;6550;8;O;0;3,0;1,8;non;
+NT100945;2022-09-02;Borgou;urbaine;24,0;Prépayé;358,7;6283,0;24;12 020 FCFA;12;oui;3;2,0;-30,5;oui;réseau
+NT102554;02/09/2022;COLLINES;urbaine;40,0;prépayé;45,0;6681,0;31;5760;12;non;1;4,0;-21,4;non;
+NT103368;2020-01-02;Littoral;urbaine;;prépayé;345,4;0,0;28;3380;5;oui;0;5,0;17,3;non;
+NT102362;02/11/2023;Littoral;urbaine;;prepaye;66,4;961,0;21;2110;5;oui;0;5,0;13,1;non;
+NT100127;03/03/2022;Borgou;urbaine;18,0;prépayé;105,6;10771,0;40;9150;10;oui;0;2,0;-12,0;non;
+NT103300;02/06/2018;Littoral;urbaine;36,0;prépayé;46,2;11007,0;4;7 840;8;non;0;3,0;15,4;NON;
+NT103181;2024-03-03;Atlantique;rurale;44,0;postpayé;343,1;4272,0;19;11 070 FCFA;1;non;0;4,0;11,5;non;
+NT104103;02/04/2024;Atacora;rurale;18,0;prépayé;70,0;2991,0;42;4 600 FCFA;13;non;1;;0,2;non;
+NT101901;02/06/2021;Zou;urbaine;18,0;prépayé;99,6;21810,0;45;24 390;29;non;0;;9,2;non;
+NT100628;01/09/2024;Mono;urbaine;36,0;postpayé;67,3;11954,0;2;17610;1;non;0;3,0;6,2;non;
+NT105102;2022-05-03;Atacora;rurale;20,0;prépayé;134,9;1212,0;36;5370;4;non;1;3,0;6,9;non;
+NT102099;2020-02-01;Couffo;rurale;18,0;Pré-payé;62,6;421,0;20;2410;3;oui;1;1,0;-5,4;non;
+NT102732;03/05/2023;Atacora;rurale;;prépayé;60,5;3421,0;15;3 760;7;N;0;4,0;-11,2;non;
+NT102114;2024-09-01;Littoral;urbaine;41,0;prépayé;348,9;4637,0;2;7800;12;1;0;4,0;-5,4;non;
+NT100995;02/12/2019;Atlantique;urbaine;42,0;prépayé;155,1;5006,0;49;8950;10;oui;0;3,0;-1,6;non;
+NT102718;2022-12-02;Atlantique;urbaine;18,0;prépayé;113,9;2608,0;24;5010;9;oui;0;3,0;-14,4;non;
+NT103978;2012-06-02;Plateau;urbaine;37,0;postpayé;60,4;390,0;7;6600;1;N;2;5,0;28,8;non;
+NT102642;01/02/2023;Littoral;urbaine;45,0;postpayé;417,5;1425,0;22;12500;1;non;0;3,0;9,3;non;
+NT101708;2017-04-02;Collines;rurale;48,0;prépayé;266,2;412,0;1;4610;7;non;0;1,0;-3,6;non;
+NT101562;02-07-2024;Couffo;rurale;26,0;prépayé;222,3;544,0;15;6640;5;0;2;;-7,1;oui;déménagement
+NT104924;2024-01-02;Mono;rurale;;prepaye;83,9;0,0;9;2170;7;non;1;3,0;16,3;NON;
+NT101539;2022-04-02;Borgou;urbaine;34,0;prépayé;335,5;923,0;62;6530;10;oui;0;4,0;0,3;non;
+NT103350;02-04-2020;Couffo;rurale;48,0;prépayé;193,1;374,0;17;3790;6;non;0;3,0;10,6;non;
+NT105040;03/03/2024;Atacora;rurale;36,0;prépayé;93,6;1558,0;20;2520;3;non;0;3,0;-39,5;oui;réseau
+NT104445;2015-07-03;Zou;rurale;23,0;prépayé;189,9;16828,0;14;21280;28;oui;2;3,0;9,9;non;
+NT100831;2023-12-02;Donga;rurale;36,0;prépayé;123,4;166,0;16;2380;7;non;1;2,0;-36,9;oui;réseau
+NT102416;2022-01-01;Couffo;rurale;47,0;postpaye;56,6;471,0;52;5490;1;non;0;3,0;4,0;non;
+NT102640;2021-12-02;Ouémé;urbaine;35,0;PREPAYE;335,4;5376,0;16;10870;11;non;1;5,0;-3,7;non;
+NT102392;02/08/2021;Plateau;rurale;36,0;prépayé;80,6;927,0;60;3530;4;non;1;2,0;13,9;NON;
+NT104559;2022-08-02;Ouémé;urbaine;48,0;postpayé;148,8;1475,0;111;6010;1;0;0;3,0;-0,0;non;
+NT104651;01/09/2024;Mono;rurale;18,0;prépayé;114,3;6164,0;16;9420;11;non;0;3,0;-8,3;non;
+NT102869;2024-10-02;Donga;urbaine;18,0;prépayé;53,7;11338,0;22;13460;18;oui;0;4,0;-17,1;non;
+NT103148;2024-10-02;LITTORAL;urbaine;24,0;prépayé;213,2;9718,0;21;13 510 FCFA;19;N;1;4,0;-0,3;non;
+NT104644;02-11-2023;Plateau;rurale;26,0;PREPAYE;42,8;2488,0;39;2550;3;oui;1;2,0;-33,2;oui;déménagement
+NT104655;01/12/2012;Mono;urbaine;39,0;postpayé;158,4;1730,0;20;10070;1;non;0;;-21,2;non;
+NT100683;2020-11-01;Mono;urbaine;35,0;prépayé;351,5;8396,0;37;17160;20;non;0;4,0;-6,8;non;
+NT104273;2022-12-02;Littoral;urbaine;39,0;prépayé;53,1;2055,0;11;2110;3;oui;0;3,0;17,7;non;
+NT101905;02/10/2024;Atlantique;rurale;18,0;prepaye;171,6;0,0;13;3750;4;non;1;;-32,5;oui;déménagement
+NT104529;02-08-2022;Borgou;rurale;42,0;prépayé;52,9;977,0;30;3150;5;non;1;2,0;-6,9;non;
+NT104821;2024-09-01;Zou;urbaine;56,0;prepaye;178,3;732,0;29;3200;4;oui;1;3,0;1,4;non;
+NT100940;2023-10-02;Plateau;urbaine;29,0;prépayé;111,1;3669,0;7;5040;3;oui;0;4,0;16,1;non;
+NT105267;2024-11-01;Atacora;rurale;37,0;prépayé;151,7;1991,0;31;3350;4;oui;0;2,0;39,0;non;
+NT101865;2021-10-02;Ouémé;rurale;20,0;prépayé;339,4;5861,0;6;12 450 FCFA;14;oui;0;4,0;26,7;non;
+NT100463;02-04-2018;DONGA;rurale;36,0;prépayé;305,3;2998,0;14;8050;12;non;0;;-0,8;non;
+NT105760;2023-10-02;Littoral;urbaine;27,0;prépayé;70,2;540,0;31;2 100;2;oui;0;4,0;1,7;non;
+NT101081;2022-03-03;Zou;rurale;43,0;prépayé;123,1;644,0;27;2510;3;non;0;4,0;20,8;non;
+NT101974;2017-01-01;Plateau;rurale;18,0;prépayé;130,3;16453,0;19;15 230 FCFA;23;oui;2;2,0;-3,6;non;
+NT101889;2020-09-01;Plateau;rurale;29,0;prépayé;78,2;877,0;21;2860;3;non;0;3,0;9,7;non;
+NT101437;01/02/2024;Ouémé;urbaine;28,0;postpayé;96,1;417,0;31;6680;1;oui;0;;2,8;non;
+NT102800;2019-08-02;Littoral;urbaine;27,0;Prépayé;170,7;4061184,0;68;6 230 FCFA;9;Oui;1;5,0;-23,0;non;
+NT103929;2024-05-02;Donga;urbaine;25,0;prépayé;305,0;1395,0;58;4 730 FCFA;16;oui;0;3,0;21,8;non;
+NT100311;02-11-2022;Atacora;rurale;30,0;prépayé;161,0;96,0;42;2130;4;non;0;3,0;18,6;non;
+NT102616;2020-08-02;Donga;urbaine;34,0;postpayé;108,5;0,0;19;5820;1;N;3;1,0;-26,1;oui;concurrence
+NT103389;2023-11-02;Ouémé;urbaine;18,0;prépayé;92,6;1897,0;28;2920;1;oui;0;4,0;4,0;NON;
+NT104378;03-07-2019;ALIBORI;urbaine;46,0;prépayé;104,7;0,0;1;1830;2;non;0;4,0;3,2;non;
+NT105551;01/12/2016;Zou;rurale;24,0;prépayé;52,9;8852,0;40;8 390;15;oui;2;3,0;6,1;non;
+NT102823;01-01-2016;Couffo;rurale;30,0;prépayé;56,0;179,0;25;1280;4;oui;1;2,0;-27,2;non;
+NT104636;2024-09-01;Atlantique;urbaine;31,0;PREPAYE;30,4;205,0;61;1020;1;oui;0;3,0;-12,2;non;
+NT101642;03/04/2023;ATLANTIQUE;urbaine;51,0;prépayé;91,9;921,0;18;2 440 FCFA;3;non;0;3,0;-7,6;non;
+NT104657;01-09-2020;Zou;urbaine;23,0;prépayé;189,0;1778,0;43;4300;3;oui;1;3,0;20,0;non;
+NT100082;03/04/2023;Plateau;rurale;18,0;prépayé;47,5;2185,0;4;3050;3;non;0;2,0;2,3;non;
+NT105732;01-11-2016;PLATEAU;rurale;27,0;prépayé;406,4;3740,0;78;8650;12;non;1;3,0;14,3;non;
+NT100487;02/08/2021;Borgou;rurale;28,0;prépayé;102,3;2247,0;38;2570;4;non;0;4,0;12,0;non;
+NT101823;2017-10-02;Couffo;rurale;30,0;prepaye;44,0;0,0;14;890;2;non;0;3,0;3,5;non;
+NT103661;2022-06-02;;rurale;37,0;postpayé;378,8;4128,0;16;11 100 FCFA;1;Non;0;3,0;-23,5;non;
+NT101561;03/05/2018; Donga;urbaine;29,0;postpayé;124,9;2706432,0;43;8750;1;oui;0;;19,5;non;
+NT105851;2019-10-02;Mono;urbaine;37,0;prépayé;33,3;3811,0;72;4 140 FCFA;6;oui;1;;-44,6;oui;concurrence
+NT101601;2020-09-01; Atlantique;urbaine;36,0;prépayé;78,9;1996,0;30;3010;6;non;0;3,0;-4,4;non;
+NT105543;2021-05-03;Ouémé;urbaine;31,0;prépayé;35,7;3544,0;15;4240;5;oui;0;3,0;-5,9;non;
+NT103920;2019-08-02;Collines;rurale;45,0;prépayé;154,6;0,0;4;3160;5;non;0;3,0;1,0;non;
+NT104508;2020-12-01;Donga;urbaine;27,0;prépayé;64,9;564,0;8;1610;3;Non;0;3,0;-14,1;NON;
+NT104759;02/08/2020;Atlantique;urbaine;18,0;prépayé;46,8;3518,0;14;3870;2;oui;0;;6,5;non;
+NT102389;31/01/2021;Collines;urbaine;36,0;postpayé;705,0;1008,0;26;12130;1;oui;0;4,0;16,0;non;
+NT104251;03/05/2018;Atlantique;urbaine;33,0;prépayé;56,9;0,0;34;1000;1;N;0;4,0;1,6;non;
+NT101222;2022-09-02; Alibori;urbaine;23,0;prépayé;155,2;1660,0;27;4 310 FCFA;7;oui;2;3,0;2,1;non;
+NT103695;03/08/2023;Donga;rurale;21,0;prépayé;237,1;2940,0;14;4 540 FCFA;1;Non;1;1,0;-23,0;oui;concurrence
+NT104981;2020-06-02;LITTORAL;urbaine;41,0;prépayé;156,5;1055,0;13;3040;7;non;0;;0,7;non;
+NT103971;2023-11-02;Atlantique;urbaine;49,0;prépayé;37,5;959,0;28;1350;2;oui;1;2,0;4,0;NON;
+NT105869;2020-04-02;Littoral;urbaine;34,0;prépayé;466,8;1508,0;6;7 150 FCFA;9;oui;2;3,0;19,4;non;
+NT104997;2024-05-02;Collines;rurale;43,0;prépayé;99,0;487,0;88;4190;4;non;0;;-39,7;oui;prix
+NT103174;02-08-2021;Collines;urbaine;19,0;prépayé;72,9;61158,0;59;34930;39;oui;0;5,0;21,3;non;
+NT102417;02/08/2022;Collines;urbaine;;Prépayé;354,4;1748,0;25;6730;9;0;0;4,0;23,7;non;
+NT102816;02-06-2020;Alibori;rurale;43,0;prépayé;108,5;151,0;83;3180;5;non;0;4,0;10,6;non;
+NT104707;02/10/2019;Borgou;rurale;42,0;prépayé;38,5;551,0;38;1 220 FCFA;3;non;0;1,0;-29,7;oui;réseau
+NT102916;2019-10-02;Ouémé;rurale;33,0;Pré-payé;31,5;0,0;20;950;4;non;0;3,0;-3,7;non;
+NT103478;2024-08-02;Mono;rurale;38,0;prépayé;101,2;1207296,0;3;2350;3;non;0;3,0;-22,1;oui;prix
+NT101896;02-08-2021;;urbaine;22,0;postpayé;70,1;13287,0;21;11840;1;oui;0;;-4,6;non;
+NT103745;2021-06-02;Borgou;rurale;28,0;prépayé;273,1;4587,0;62;6170;6;Non;0;3,0;8,3;non;
+NT104194;2022-10-02;COUFFO;rurale;39,0;prépayé;20,7;956,0;8;930 FCFA;3;non;1;3,0;-1,4;oui;concurrence
+NT103199;02/10/2020;Borgou;rurale;35,0;postpayé;143,2;5715,0;3;15050;1;non;2;2,0;7,0;non;
+NT100531;02-09-2023;Atlantique;urbaine;18,0;postpayé;91,1;15134,0;13;17780;1;oui;1;5,0;10,5;non;
+NT103304;2023-10-02;Ouémé;urbaine;20,0;prépayé;178,9;2218,0;9;6120;9;oui;0;1,0;21,5;non;
+NT103799;01-01-2019;Borgou;urbaine;20,0;prépayé;91,1;5911,0;30;7 760 FCFA;9;oui;0;2,0;-19,3;non;
+NT102719;2023-04-03;Atlantique;urbaine;18,0;prépayé;21,0;1141,0;52;1710;3;non;2;2,0;-29,4;oui;déménagement
+NT105224;02/07/2024;Borgou;urbaine;38,0;prépayé;63,3;894,0;17;2 790;2;non;0;3,0;-8,5;non;
+NT101881;2024-02-01;;urbaine;30,0;prépayé;46,8;6377,0;114;7 350 FCFA;13;oui;0;3,0;-10,7;non;
+NT101777;2022-03-03;Littoral;urbaine;35,0;prépayé;464,6;939,0;22;7980;11;oui;0;3,0;-31,5;non;
+NT102304;2021-07-03;Couffo;rurale;24,0;prépayé;35,9;0,0;11;680;1;non;3;;-26,3;oui;réseau
+NT102442;2020-05-02;Zou;rurale;19,0;prépayé;446,0;7151,0;4;12730;22;non;0;5,0;36,4;non;
+NT105678;2024-03-03;Donga;rurale;39,0;postpayé;55,8;966,0;13;8510;1;non;0;5,0;-7,6;non;
+NT103213;2020-01-02;Ouémé;rurale;23,0;prépayé;206,9;443,0;20;4 060;8;non;1;;-3,1;oui;prix
+NT101394;2023-02-01;Littoral;urbaine;26,0;POSTPAYE;168,3;2201,0;9;7240;1;oui;0;;10,0;non;
+NT103867;2023-01-01;Borgou;urbaine;46,0;postpayé;92,3;1473,0;16;5010;1;O;0;4,0;-17,5;non;
+NT104033;2018-08-02;Ouémé;urbaine;;prépayé;42,2;4809,0;4;7740;6;oui;0;4,0;13,3;non;
+NT102957;2019-10-02; Zou;rurale;27,0;prépayé;348,6;3026,0;8;8730;11;non;0;4,0;-23,6;non;
+NT100780;2024-10-02;Borgou;urbaine;31,0;postpayé;155,0;6357,0;22;10750;1;non;1;4,0;-11,0;non;
+NT101698;02-08-2024;Atlantique;urbaine;18,0;prépayé;95,9;2481,0;7;5130;5;oui;0;3,0;-7,6;non;
+NT101918;2022-02-01;Borgou;rurale;;prepaye;21,2;0,0;105;1610;6;non;0;3,0;-3,0;;
+NT105795;2024-05-02;Ouémé;urbaine;38,0;postpayé;276,4;1617,0;46;7 040;1;oui;0;3,0;-7,7;non;
+NT103428;03-06-2023;Ouémé;rurale;18,0;prépayé;98,8;1821,0;17;3220;3;oui;0;2,0;12,4;non;
+NT102666;2022-09-02;Ouémé;urbaine;22,0;prépayé;119,2;2131,0;15;2440;3;oui;0;4,0;4,2;non;
+NT103417;2024-06-02;Alibori;rurale;22,0;prépayé;152,9;3213,0;17;5 680 FCFA;9;non;0;5,0;1,6;non;
+NT100461;03/04/2023;Littoral;urbaine;;prépayé;127,0;2134,0;19;4750;4;oui;0;4,0;-20,8;non;
+NT103262;2023-07-03; Donga;rurale;40,0;prépayé;81,4;735,0;7;1770;4;oui;0;2,0;9,4;non;
+NT100001;01-02-2023;Ouémé;urbaine;43,0;prépayé;306,9;322,0;10;4 470 FCFA;6;oui;0;4,0;29,5;non;
+NT102682;2024-04-02;Atacora;rurale;33,0;prépayé;69,7;1617,0;12;3210;4;non;0;2,0;1,7;non;
+NT101047;01/02/2023;Littoral;urbaine;20,0;prépayé;35,0;1084,0;22;2130;3;oui;0;3,0;-0,5;non;
+NT105042;03/03/2023;Ouémé;urbaine;21,0;prépayé;497,5;3724,0;23;10480;14;oui;2;2,0;12,9;non;
+NT103666;2023-07-03;Alibori;rurale;36,0;Pré-payé;300,0;3122,0;22;6390;7;oui;0;4,0;8,2;non;
+NT102935;2022-10-02;Borgou;rurale;37,0;prépayé;62,2;0,0;6;1230;4;non;0;3,0;-13,1;non;
+NT103044;03/03/2024; Littoral;urbaine;48,0;prépayé;99,5;0,0;4;2 110;2;oui;1;5,0;-7,5;non;
+NT102905;2020-05-02;Ouémé;rurale;26,0;prépayé;182,7;237,0;45;3550;4;0;0;;-4,0;non;
+NT103624;2018-09-02;Littoral;urbaine;18,0;prépayé;45,7;6455,0;42;7460;4;non;1;;6,3;non;
+NT101176;02/10/2020;;urbaine;34,0;prépayé;112,0;449,0;32;3 170 FCFA;4;non;0;5,0;-3,5;non;
+NT101219;01/09/2024;Couffo;rurale;18,0;prépayé;46,7;843,0;60;1990;2;oui;0;3,0;5,6;non;
+NT100527;02/01/2024;Atacora;urbaine;33,0;prépayé;51,2;2826,0;42;4 010 FCFA;3;oui;1;3,0;-1,8;non;
+NT105422;01-09-2024;Zou;rurale;25,0;prépayé;99,7;1366,0;46;3 010;6;oui;0;;1,4;non;
+NT102483;2023-12-02;Couffo;rurale;22,0;prépayé;152,3;3328,0;6;6260;10;Oui;0;4,0;3,7;non;
+NT105815;2019-06-03;Borgou;urbaine;53,0;prépayé;63,5;212,0;22;1680;2;oui;0;2,0;-20,1;non;
+NT101646;2024-08-02;Atacora;rurale;41,0;prépayé;30,2;807,0;4;1210;5;non;1;2,0;-1,5;oui;réseau
+NT105284;02/12/2021;Atlantique;urbaine;51,0;prépayé;160,4;496,0;23;4250;4;oui;0;3,0;4,8;non;
+NT104481;2023-10-02;Atlantique;urbaine;43,0;prépayé;32,0;1152,0;95;2900;6;non;0;;-15,5;non;
+NT101019;02/01/2024;Couffo;urbaine;;prépayé;187,7;12668,0;6;15070;20;oui;0;2,0;18,8;non;
+NT103685;2024-06-02;Ouémé;rurale;;prépayé;79,7;209,0;6;1210;3;non;0;5,0;-2,5;non;
+NT104592;2017-01-31;Ouémé;rurale;36,0;prepaye;160,1;0,0;13;2 460 FCFA;3;non;0;4,0;29,9;non;
+NT103805;2020-12-01;Atlantique;rurale;18,0;postpayé;106,7;2157,0;31;8420;1;non;1;3,0;1,7;non;
+NT102766;2023-05-03;Littoral;urbaine;44,0;prépayé;;329,0;12;3050;4;oui;0;3,0;-5,7;non;
+NT104160;2020-11-01;Littoral;urbaine;29,0;prépayé;111,0;0,0;20;2680;6;non;1;4,0;-4,7;non;
+NT104288;02/03/2020;Littoral;urbaine;18,0;prépayé;84,8;25020,0;20;25 410;33;non;0;3,0;-19,6;non;
+NT105517;2022-01-01; Couffo;rurale;37,0;prépayé;113,0;425,0;9;2690;2;Non;1;4,0;-14,7;non;
+NT100155;2016-03-02; Atlantique;rurale;30,0;prépayé;10,9;1907,0;49;3 190 FCFA;2;non;1;3,0;0,3;non;
+NT104538;2024-05-02;Littoral;urbaine;18,0;prépayé;53,0;3001,0;37;3 110 FCFA;5;N;0;4,0;-13,7;non;
+NT105988;2022-11-02;Atlantique;urbaine;26,0;prépayé;96,3;4213,0;27;5160;10;non;0;4,0;25,5;non;
+NT101734;2024-05-02;Plateau;rurale;21,0;prépayé;249,7;221,0;23;3 770 FCFA;8;0;1;3,0;-8,7;non;
+NT105830;2022-08-02;Borgou;rurale;18,0;prépayé;380,2;2422,0;20;8630;5;non;0;4,0;-1,8;non;
+NT101466;2019-06-03;Couffo;rurale;50,0;prépayé;96,6;771,0;30;2880;2;non;0;;6,9;non;
+NT105639;2017-07-02;Mono;urbaine;43,0;prépayé;330,4;5321,0;19;11440;17;non;0;4,0;10,9;non;
+NT102535;2022-07-03;Atlantique;urbaine;39,0;prépayé;228,6;3838,0;57;9 090 FCFA;9;non;1;2,0;-35,3;oui;concurrence
+NT105799;2022-02-01; Donga;rurale;42,0;prépayé;134,0;683,0;53;3 030 FCFA;3;non;1;2,0;-6,6;oui;réseau
+NT101479;2020-11-01;Mono;urbaine;18,0;prépayé;80,5;1727,0;23;2 140 FCFA;5;oui;0;;-11,0;non;
+NT103099;01-01-2021;Atlantique;rurale;26,0;postpayé;124,8;1571,0;10;9890;1;O;0;3,0;-16,0;non;
+NT104882;02/09/2023;Ouémé;rurale;;prépayé;146,8;892,0;35;4200;8;non;0;3,0;30,8;non;
+NT104631;2022-04-02;Atlantique;urbaine;26,0;postpayé;160,5;2305,0;5;10250;1;non;1;5,0;-9,3;non;

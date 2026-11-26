@@ -95,39 +95,16 @@ def render_theme_toggle() -> None:
     st.markdown(
         f"""
 <style>
-/* Header transparent : clics traversent sauf boutons natifs (>> / menu).
-   Un `* {{ pointer-events:auto }}` réactiverait les wrappers larges — à éviter. */
-[data-testid="stHeader"] {{
-  background: transparent !important;
-  pointer-events: none !important;
-}}
-[data-testid="stHeader"] button,
-[data-testid="stHeader"] a,
-[data-testid="stHeader"] [role="button"] {{
-  pointer-events: auto !important;
-}}
-
-/* Flèche ouvrir / fermer : hitbox étroite (évite d'avaler le bouton thème) */
+/* Flèche ouvrir / fermer toujours visible */
 [data-testid="stExpandSidebarButton"],
 [data-testid="stSidebarCollapsedControl"],
 [data-testid="stSidebarCollapseButton"] {{
   visibility: visible !important;
   opacity: 1 !important;
   z-index: 1000005 !important;
-  max-width: 2.5rem !important;
-  width: 2.5rem !important;
-  overflow: visible !important;
-  pointer-events: none !important;
-}}
-[data-testid="stExpandSidebarButton"] *,
-[data-testid="stSidebarCollapsedControl"] *,
-[data-testid="stSidebarCollapseButton"] * {{
-  pointer-events: none !important;
 }}
 [data-testid="stExpandSidebarButton"] button,
-[data-testid="stSidebarCollapsedControl"] button,
-[data-testid="stSidebarCollapseButton"] button {{
-  pointer-events: auto !important;
+[data-testid="stSidebarCollapsedControl"] button {{
   background: #ffffff !important;
   color: #12141a !important;
   border: 0 !important;
@@ -136,7 +113,6 @@ def render_theme_toggle() -> None:
   width: 2.35rem !important;
   height: 2.35rem !important;
   min-height: 2.35rem !important;
-  cursor: pointer !important;
 }}
 
 /* Host du bouton thème (type tertiary = unique, hors Retour secondary) */
@@ -144,14 +120,13 @@ div[data-testid="stElementContainer"]:has(button[kind="tertiary"]),
 div[data-testid="stElementContainer"]:has(button[data-testid="stBaseButton-tertiary"]) {{
   position: fixed !important;
   top: 0.72rem !important;
-  /* Sidebar FERMÉE : juste à droite de >> (hitbox contrainte à 2.5rem) */
-  left: 3.6rem !important;
-  z-index: 1000010 !important;
+  /* Sidebar FERMÉE : à côté de >> (flèche ~0.75–1rem, bouton 2.35rem → ~3.5rem) */
+  left: 3.55rem !important;
+  z-index: 1000007 !important;
   width: 2.45rem !important;
   height: 2.45rem !important;
   margin: 0 !important;
   padding: 0 !important;
-  pointer-events: auto !important;
 }}
 /* Sidebar OUVERTE : juste après la sidebar (+ padding) */
 .stApp:has([data-testid="stSidebar"][aria-expanded="true"])
@@ -165,16 +140,12 @@ div[data-testid="stElementContainer"]:has(button[data-testid="stBaseButton-terti
     div[data-testid="stElementContainer"]:has(button[kind="tertiary"]),
   .stApp:has([data-testid="stSidebar"][aria-expanded="true"])
     div[data-testid="stElementContainer"]:has(button[data-testid="stBaseButton-tertiary"]) {{
-    left: 3.6rem !important;
+    left: 3.55rem !important;
   }}
 }}
 
 button[kind="tertiary"],
 button[data-testid="stBaseButton-tertiary"] {{
-  position: relative !important;
-  z-index: 1000011 !important;
-  pointer-events: auto !important;
-  cursor: pointer !important;
   width: 2.45rem !important;
   min-width: 2.45rem !important;
   max-width: 2.45rem !important;
@@ -192,13 +163,11 @@ button[data-testid="stBaseButton-tertiary"] {{
 button[kind="tertiary"] *,
 button[data-testid="stBaseButton-tertiary"] * {{
   opacity: 0 !important;
-  pointer-events: none !important;
 }}
 button[kind="tertiary"]:hover,
 button[data-testid="stBaseButton-tertiary"]:hover {{
   filter: brightness(0.96);
   transform: none !important;
-  cursor: pointer !important;
 }}
 </style>
 """,

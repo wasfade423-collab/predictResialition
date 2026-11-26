@@ -1,0 +1,7 @@
+id_client,date_activation,type_offre,data_mo,depense_fcfa,resilie
+NT1,2023-01-15,prépayé,1200.0,2 500 FCFA,non
+NT2,15/02/2022,Prépayé,850.0,1800,NON
+NT3,2021-07-01,PREPAYE,,3 100,oui
+NT3,2021-07-01,PREPAYE,,3 100,oui
+NT4,2024-03-10,postpayé,5400.0,9 000 FCFA,
+NT5,?,Pré-payé,-1.0,2200,non
