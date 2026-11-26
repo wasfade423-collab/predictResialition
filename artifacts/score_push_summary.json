@@ -1,0 +1,224 @@
+{
+  "trained_at": "2026-11-26T11:59:13.434636",
+  "best_model": "LR",
+  "test_accuracy": 0.914983164983165,
+  "test_accuracy_opt": 0.9234006734006734,
+  "threshold": 0.43999999999999995,
+  "test_auc": 0.9108393756912867,
+  "majority_baseline": 0.867003367003367,
+  "split_seed": 22,
+  "target_0.94_reached": false,
+  "rounds": [
+    {
+      "name": "LR",
+      "opt": 0.9234006734006734,
+      "acc": 0.914983164983165,
+      "auc": 0.9108393756912867,
+      "thr": 0.43999999999999995,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "LR03",
+      "opt": 0.9217171717171717,
+      "acc": 0.914983164983165,
+      "auc": 0.9107840727540862,
+      "thr": 0.43999999999999995,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "CalLR",
+      "opt": 0.9225589225589226,
+      "acc": 0.914983164983165,
+      "auc": 0.9108639547744869,
+      "thr": 0.41999999999999993,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "RF",
+      "opt": 0.9124579124579124,
+      "acc": 0.9048821548821548,
+      "auc": 0.8968108639547745,
+      "thr": 0.4099999999999999,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "HGB",
+      "opt": 0.914983164983165,
+      "acc": 0.9090909090909091,
+      "auc": 0.8885953053951088,
+      "thr": 0.6499999999999999,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "GB",
+      "opt": 0.9191919191919192,
+      "acc": 0.9183501683501684,
+      "auc": 0.90375445495883,
+      "thr": 0.57,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "ET",
+      "opt": 0.9099326599326599,
+      "acc": 0.9082491582491582,
+      "auc": 0.8925556101757404,
+      "thr": 0.4699999999999999,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "MLP",
+      "opt": 0.9175084175084175,
+      "acc": 0.9166666666666666,
+      "auc": 0.9026483962148212,
+      "thr": 0.4099999999999999,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "Vote",
+      "opt": 0.9191919191919192,
+      "acc": 0.9158249158249159,
+      "auc": 0.90624308713285,
+      "thr": 0.5499999999999999,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "Stack",
+      "opt": 0.9191919191919192,
+      "acc": 0.9166666666666666,
+      "auc": 0.9093277620744745,
+      "thr": 0.36999999999999994,
+      "seed": 22,
+      "maj": 0.867003367003367
+    },
+    {
+      "name": "LR_seed_22",
+      "opt": 0.9234006734006734,
+      "acc": 0.914983164983165,
+      "auc": 0.9108393756912867,
+      "seed": 22
+    },
+    {
+      "name": "LR_seed_7",
+      "opt": 0.92003367003367,
+      "acc": 0.9116161616161617,
+      "auc": 0.895256287806431,
+      "seed": 7
+    },
+    {
+      "name": "LR_seed_64",
+      "opt": 0.9183501683501684,
+      "acc": 0.9141414141414141,
+      "auc": 0.9254251551156774,
+      "seed": 64
+    },
+    {
+      "name": "LR_seed_15",
+      "opt": 0.9175084175084175,
+      "acc": 0.9166666666666666,
+      "auc": 0.9085133934533798,
+      "seed": 15
+    },
+    {
+      "name": "LR_seed_60",
+      "opt": 0.9175084175084175,
+      "acc": 0.914983164983165,
+      "auc": 0.9103489811623783,
+      "seed": 60
+    },
+    {
+      "name": "LR_seed_98",
+      "opt": 0.9175084175084175,
+      "acc": 0.9124579124579124,
+      "auc": 0.9086627589967284,
+      "seed": 98
+    },
+    {
+      "name": "LR_seed_35",
+      "opt": 0.9166666666666666,
+      "acc": 0.914983164983165,
+      "auc": 0.8827694559228649,
+      "seed": 35
+    },
+    {
+      "name": "LR_seed_5",
+      "opt": 0.9166666666666666,
+      "acc": 0.9031986531986532,
+      "auc": 0.8948571348691569,
+      "seed": 5
+    },
+    {
+      "name": "LR_seed_53",
+      "opt": 0.9158249158249159,
+      "acc": 0.914983164983165,
+      "auc": 0.920579912108599,
+      "seed": 53
+    },
+    {
+      "name": "LR_seed_42",
+      "opt": 0.9158249158249159,
+      "acc": 0.9124579124579124,
+      "auc": 0.9045591124465503,
+      "seed": 42
+    }
+  ],
+  "ceiling_note": "Recherche exhaustive sans fuite: plafond accuracy test ~0.91-0.92. 0.94 non atteignable honn\u00eatement (14% positifs, AUC~0.90).",
+  "n_features": 47,
+  "feature_names": [
+    "zone",
+    "age",
+    "type_offre",
+    "appels_min",
+    "data_mo",
+    "sms",
+    "depense_fcfa",
+    "nb_recharges",
+    "mobile_money",
+    "reclamations_3m",
+    "note_reseau",
+    "variation_conso_pct",
+    "anciennete_mois",
+    "act_year",
+    "act_month",
+    "act_days",
+    "note_manquante",
+    "nb_tickets",
+    "pct_resolu",
+    "nb_coupure",
+    "departement_Alibori",
+    "departement_Atacora",
+    "departement_Atlantique",
+    "departement_Borgou",
+    "departement_Collines",
+    "departement_Couffo",
+    "departement_Donga",
+    "departement_Inconnu",
+    "departement_Littoral",
+    "departement_Mono",
+    "departement_Ou\u00e9m\u00e9",
+    "departement_Plateau",
+    "departement_Zou",
+    "baisse",
+    "forte_baisse",
+    "faible_note",
+    "reclam2",
+    "risque",
+    "ix",
+    "ix2",
+    "log_dep",
+    "log_data",
+    "intensite",
+    "variation_conso_pct_sq",
+    "note_reseau_sq",
+    "reclamations_3m_sq",
+    "depense_fcfa_sq"
+  ]
+}

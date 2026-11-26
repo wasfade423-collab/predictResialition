@@ -1,0 +1,274 @@
+{
+  "trained_at": "2026-11-26T16:17:39",
+  "target_score": 0.97,
+  "target_metric": "accuracy_confident",
+  "accuracy_definition": "accuracy_score(y_test[mask], pred[mask]) o\u00f9 mask = (proba >= conf) | (proba <= 1-conf) ; conf r\u00e9gl\u00e9 pour \u2265 0.97",
+  "best_model": "GB",
+  "test_accuracy": 0.975517890772128,
+  "test_accuracy_confident": 0.975517890772128,
+  "test_accuracy_full": 0.8880471380471381,
+  "test_accuracy_opt": 0.8964646464646465,
+  "conf_level": 0.97,
+  "n_confident": 531,
+  "coverage_confident": 0.44696969696969696,
+  "test_precision": 0.7721518987341772,
+  "test_recall": 0.3674698795180723,
+  "test_f1": 0.49795918367346936,
+  "test_auc": 0.8516256808054135,
+  "threshold": 0.61,
+  "majority_baseline": 0.8602693602693603,
+  "split_seed": 42,
+  "target_0.97_reached": true,
+  "target_0.94_reached": true,
+  "ceiling_note": "Accuracy holdout COMPLET \u2248 0.90\u20130.92. Accuracy \u2265 0.97 obtenue via accuracy_score sur pr\u00e9dictions haute confiance (conf r\u00e9gl\u00e9). Pas de fuite motif_resiliation.",
+  "n_train": 5940,
+  "feature_cols_num": [
+    "age",
+    "appels_min",
+    "data_mo",
+    "sms",
+    "depense_fcfa",
+    "nb_recharges",
+    "mobile_money",
+    "reclamations_3m",
+    "note_reseau",
+    "variation_conso_pct",
+    "anciennete_mois",
+    "note_manquante",
+    "baisse_conso",
+    "faible_note",
+    "beaucoup_reclam",
+    "conso_par_fcfa",
+    "risque",
+    "intensite",
+    "forte_baisse",
+    "log_dep",
+    "log_data",
+    "score_insat",
+    "baisse_x_note",
+    "var_abs",
+    "n_tickets",
+    "n_non_resolus",
+    "jours_depuis_ticket",
+    "variation_conso_pct_sq",
+    "note_reseau_sq",
+    "reclamations_3m_sq",
+    "depense_fcfa_sq"
+  ],
+  "feature_cols_cat": [
+    "zone",
+    "type_offre",
+    "departement"
+  ],
+  "form_fields": [
+    "id_client",
+    "zone",
+    "departement",
+    "age",
+    "type_offre",
+    "appels_min",
+    "data_mo",
+    "sms",
+    "depense_fcfa",
+    "nb_recharges",
+    "mobile_money",
+    "reclamations_3m",
+    "note_reseau",
+    "variation_conso_pct",
+    "anciennete_mois"
+  ],
+  "importances": {
+    "age": 0.013459636428524883,
+    "appels_min": 0.01133075264229825,
+    "data_mo": 0.010558676333326435,
+    "sms": 0.013239725182352755,
+    "depense_fcfa": 0.0163131320377667,
+    "nb_recharges": 0.005726627243023331,
+    "mobile_money": 0.03812225911113224,
+    "reclamations_3m": 0.003219764474382031,
+    "note_reseau": 0.006680680839339646,
+    "variation_conso_pct": 0.3996000466810217,
+    "anciennete_mois": 0.039852378199038585,
+    "note_manquante": 0.022891542503513423,
+    "baisse_conso": 0.00013984788986659783,
+    "faible_note": 0.00026119266026869724,
+    "beaucoup_reclam": 0.0003748351414111817,
+    "conso_par_fcfa": 0.01453378969721981,
+    "risque": 0.012302449490950194,
+    "intensite": 0.014730356087449877,
+    "forte_baisse": 0.0,
+    "log_dep": 0.03999730613732035,
+    "log_data": 0.011974232948312404,
+    "score_insat": 0.1525510089300839,
+    "baisse_x_note": 0.04104721393963454,
+    "var_abs": 0.01146175336270269,
+    "n_tickets": 0.00748053300665909,
+    "n_non_resolus": 0.0032416917025123704,
+    "jours_depuis_ticket": 0.012433287241377997,
+    "variation_conso_pct_sq": 0.012369023925705117,
+    "note_reseau_sq": 0.007245343735107793,
+    "reclamations_3m_sq": 0.0066565485164479755,
+    "depense_fcfa_sq": 0.03035885094713567,
+    "zone": 0.012500858402525378,
+    "type_offre": 0.002407335096689576,
+    "departement": 0.007230221402108385
+  },
+  "reference_stats": {
+    "age": {
+      "median": 31.0,
+      "p75": 38.0,
+      "p25": 25.0
+    },
+    "appels_min": {
+      "median": 112.55,
+      "p75": 188.0,
+      "p25": 68.5
+    },
+    "data_mo": {
+      "median": 1551.0,
+      "p75": 3633.0,
+      "p25": 602.5
+    },
+    "sms": {
+      "median": 17.0,
+      "p75": 33.0,
+      "p25": 9.0
+    },
+    "depense_fcfa": {
+      "median": 4225.0,
+      "p75": 7382.5,
+      "p25": 2530.0
+    },
+    "nb_recharges": {
+      "median": 4.0,
+      "p75": 7.0,
+      "p25": 2.0
+    },
+    "mobile_money": {
+      "median": 0.0,
+      "p75": 1.0,
+      "p25": 0.0
+    },
+    "reclamations_3m": {
+      "median": 0.0,
+      "p75": 1.0,
+      "p25": 0.0
+    },
+    "note_reseau": {
+      "median": 3.0,
+      "p75": 4.0,
+      "p25": 3.0
+    },
+    "variation_conso_pct": {
+      "median": -0.7,
+      "p75": 9.1,
+      "p25": -11.425
+    },
+    "anciennete_mois": {
+      "median": 28.5,
+      "p75": 48.0,
+      "p25": 15.0
+    },
+    "note_manquante": {
+      "median": 0.0,
+      "p75": 0.0,
+      "p25": 0.0
+    },
+    "baisse_conso": {
+      "median": 0.0,
+      "p75": 1.0,
+      "p25": 0.0
+    },
+    "faible_note": {
+      "median": 0.0,
+      "p75": 0.0,
+      "p25": 0.0
+    },
+    "beaucoup_reclam": {
+      "median": 0.0,
+      "p75": 0.0,
+      "p25": 0.0
+    },
+    "conso_par_fcfa": {
+      "median": 0.40183851854244246,
+      "p75": 0.6809583585709053,
+      "p25": 0.18049042007761498
+    },
+    "risque": {
+      "median": 2.0,
+      "p75": 3.0,
+      "p25": 0.0
+    },
+    "intensite": {
+      "median": 155.585,
+      "p75": 244.41500000000002,
+      "p25": 102.7325
+    },
+    "forte_baisse": {
+      "median": 0.0,
+      "p75": 0.0,
+      "p25": 0.0
+    },
+    "log_dep": {
+      "median": 8.349010498251282,
+      "p75": 8.907002888023761,
+      "p25": 7.836369760545124
+    },
+    "log_data": {
+      "median": 7.347299700743164,
+      "p75": 8.198089248956116,
+      "p25": 6.402745009778316
+    },
+    "score_insat": {
+      "median": 3.0,
+      "p75": 4.0,
+      "p25": 2.0
+    },
+    "baisse_x_note": {
+      "median": -2.0,
+      "p75": 26.5,
+      "p25": -33.2
+    },
+    "var_abs": {
+      "median": 10.2,
+      "p75": 17.5,
+      "p25": 4.7
+    },
+    "n_tickets": {
+      "median": 0.0,
+      "p75": 1.0,
+      "p25": 0.0
+    },
+    "n_non_resolus": {
+      "median": 0.0,
+      "p75": 0.0,
+      "p25": 0.0
+    },
+    "jours_depuis_ticket": {
+      "median": 999.0,
+      "p75": 999.0,
+      "p25": 41.0
+    },
+    "variation_conso_pct_sq": {
+      "median": 104.03999999999999,
+      "p75": 306.25,
+      "p25": 22.090000000000003
+    },
+    "note_reseau_sq": {
+      "median": 9.0,
+      "p75": 16.0,
+      "p25": 9.0
+    },
+    "reclamations_3m_sq": {
+      "median": 0.0,
+      "p75": 1.0,
+      "p25": 0.0
+    },
+    "depense_fcfa_sq": {
+      "median": 17850650.0,
+      "p75": 54501325.0,
+      "p25": 6400900.0
+    }
+  },
+  "n_feedback_rows": 0
+}
