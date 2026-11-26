@@ -1,6 +1,6 @@
 # Présentation — Détection de résiliation des abonnés
 
-## Titre recommandé
+## Titre
 
 **Prédiction de résiliation des abonnés avec Machine Learning et interface Streamlit**
 
